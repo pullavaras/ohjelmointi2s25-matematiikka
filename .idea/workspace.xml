@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c745e59-b56f-4ee4-b61e-1944b69c6f4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-matematiikka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matematiikka/1.1-a-ja-b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matematiikka/1.2a-ja-b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matematiikka/1.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matematiikka/2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ohjelmointi2-matematiikka/1.1-a-ja-b.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht1/1.1-a-ja-b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ohjelmointi2-matematiikka/1.2a-ja-b.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht1/1.2a-ja-b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ohjelmointi2-matematiikka/1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht1/1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ohjelmointi2-matematiikka/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht1/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pullavaras"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pullavaras/ohjelmointi2s25-matematiikka.git",
+    "accountId": "d51c712a-a8fb-4c52-bedb-1cafb046378f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="34KIMVMHirnfnVncdNUjgLqAto2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +54,10 @@
     "Python.1.1-a-ja-b.executor": "Run",
     "Python.1.2a-ja-b.executor": "Run",
     "Python.1.3.executor": "Run",
+    "Python.1.executor": "Run",
     "Python.2.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
     "Python.t1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -57,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\linne\PycharmProjects\ohjelmointi2s25-matematiikka\ohjelmointi2-matematiikka\teht1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760955788603</updated>
       <workItem from="1760955789679" duration="3891000" />
+      <workItem from="1762760828374" duration="1409000" />
     </task>
     <servers />
   </component>
@@ -80,10 +99,13 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_matematiikka$1_2a_ja_b.coverage" NAME="1.2a-ja-b Coverage Results" MODIFIED="1760976324491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
     <SUITE FILE_PATH="coverage/python_matematiikka$1_1_a_ja_b.coverage" NAME="1.1-a-ja-b Coverage Results" MODIFIED="1760976184663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
-    <SUITE FILE_PATH="coverage/python_matematiikka$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1760956407938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
+    <SUITE FILE_PATH="coverage/ohjelmointi2s25_matematiikka$1.coverage" NAME="1 Coverage Results" MODIFIED="1762761774970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2" />
+    <SUITE FILE_PATH="coverage/ohjelmointi2s25_matematiikka$3.coverage" NAME="3 Coverage Results" MODIFIED="1762762226362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2" />
+    <SUITE FILE_PATH="coverage/python_matematiikka$1_2a_ja_b.coverage" NAME="1.2a-ja-b Coverage Results" MODIFIED="1760976324491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
     <SUITE FILE_PATH="coverage/python_matematiikka$1_3.coverage" NAME="1.3 Coverage Results" MODIFIED="1760976565165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
     <SUITE FILE_PATH="coverage/python_matematiikka$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1760978123024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
+    <SUITE FILE_PATH="coverage/ohjelmointi2s25_matematiikka$2.coverage" NAME="2 Coverage Results" MODIFIED="1762762031672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ohjelmointi2-matematiikka/teht2" />
+    <SUITE FILE_PATH="coverage/python_matematiikka$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1760956407938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matematiikka" />
   </component>
 </project>
